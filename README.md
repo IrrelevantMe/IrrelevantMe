@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IrrelevantMe
 - 👀 I’m interested in you!
 - 🌱 I’m currently learning about myself...
-- 💞️ I’m looking to collaborate on web development projects
+- 🤝🏼 I’m looking to collaborate on web development projects
 - 📫 How to reach me -> masood.ae.official@gmail.com
 
 <!---
